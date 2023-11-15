@@ -5,3 +5,6 @@ function sum(num){
 }
 
 module.exports = sum
+
+
+alama meg kifli
